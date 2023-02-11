@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "852064074823",
+    "project_id": "showimagesfromuser",
+    "storage_bucket": "showimagesfromuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852064074823:android:8a44411f74b1bf3e974562",
+        "android_client_info": {
+          "package_name": "com.example.photowastakenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852064074823-n0pd9fugk7afk5k6ori1j0s7amq21jfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0nCZuQHfM2eTlHMvUjLj5-StJdJVgTk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852064074823-n0pd9fugk7afk5k6ori1j0s7amq21jfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852064074823:android:a9e8a3b95c8f4d4d974562",
+        "android_client_info": {
+          "package_name": "com.example.showimagesfromuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852064074823-n0pd9fugk7afk5k6ori1j0s7amq21jfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0nCZuQHfM2eTlHMvUjLj5-StJdJVgTk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852064074823-n0pd9fugk7afk5k6ori1j0s7amq21jfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

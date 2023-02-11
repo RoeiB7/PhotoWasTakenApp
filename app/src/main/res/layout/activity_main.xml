@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/camera2"
+    tools:context=".Activites.MainActivity"
+    android:padding="32dp">
+
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/main_BTN_start_service"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/start_service"
+        android:textAllCaps="false"
+        android:backgroundTint="@color/orange"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+
+        />
+
+
+</RelativeLayout>
